@@ -104,4 +104,10 @@ src/
 │       └── application.properties
 │       
 └── test/
+```
 
+## Documentación de la API
+
+La API está documentada utilizando Swagger. Puedes acceder a la documentación completa desde el siguiente enlace:  
+
+[Documentación Swagger - Forohub](http://localhost:8080/swagger-ui/index.html)
